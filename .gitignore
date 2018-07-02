@@ -246,8 +246,3 @@ gradle-app.setting
 /gradlew
 /gradlew.bat
 /reSchedule.ipr
-src/main/kotlin/com/reschedule/controller/
-src/main/kotlin/com/reschedule/model/
-src/main/kotlin/com/reschedule/view/
-src/main/resources/
-src/test/
